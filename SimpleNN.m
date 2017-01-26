@@ -1,5 +1,5 @@
 function [net, err] = SimpleNN(trainData,trainTargets,MaxIte,lrate,minibatch,NNSize,Momentum,weightdecay,initRange) 
-%
+%  
 %   [net, err] = SimpleNN(trainData,trainTargets,MaxIte,lrate,minibatch,NNSize,Momentum,weightdecay,initRange) 
 %
 % Input: 
